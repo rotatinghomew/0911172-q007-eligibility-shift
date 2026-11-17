@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "c1",
+      "period": "early",
+      "rule": "v1",
+      "outcome": 1
+    },
+    {
+      "id": "c2",
+      "period": "early",
+      "rule": "v1",
+      "outcome": 0
+    },
+    {
+      "id": "c3",
+      "period": "late",
+      "rule": "v2",
+      "outcome": 1
+    },
+    {
+      "id": "c4",
+      "period": "late",
+      "rule": "v2",
+      "outcome": 1
+    }
+  ]
+}
